@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AbdAlrahman Daas
 - 👀 I’m interested in Full-Stack
-- 🌱 I’m currently learning React
+- 🌱 I’m currently mastering React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdalrahmandaas963@gmail.com
 
