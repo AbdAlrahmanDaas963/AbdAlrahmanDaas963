@@ -1,8 +1,8 @@
 - 👋 Hi, I’m AbdAlrahman Daas
 - 👀 I’m interested in Web-development
-- 🌱 I’m currently mastering React
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me abdalrahmandaas963@gmail.com
-- ✨Front-End developer
+- ✨jsx developer
 <!-- <bio 
      Name : "AbdAlrahman"
      Age : "20"
