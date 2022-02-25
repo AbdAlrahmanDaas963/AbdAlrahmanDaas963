@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AbdAlrahman Daas
-- 👀 I’m interested in Web-development
+- 👀 I’m interested in Web-development and mobile apps
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me abdalrahmandaas963@gmail.com
 - ✨jsx developer
