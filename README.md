@@ -1,8 +1,8 @@
 - 👋 Hi, I’m AbdAlrahman Daas
 - 👀 I’m interested in Web-development and mobile apps
-- 🌱 I’m currently learning React Redux
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me abdalrahmandaas963@gmail.com
-- ✨jsx developer
+- ✨ jsx developer
 <!-- <bio 
      Name : "AbdAlrahman"
      Age : "20"
